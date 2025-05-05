@@ -1,0 +1,4 @@
+name: NordRegions
+version: "1.0.0"
+main: it.scopped.nordregions.NordRegionsBootstrap
+api-version: "1.21"

@@ -1,0 +1,4 @@
+package it.scopped.nordregions.api.event;
+
+public class RegionLeftEvent {
+}

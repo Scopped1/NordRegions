@@ -1,0 +1,16 @@
+{
+  "regions": {
+    "example": {
+      "type": "cuboid",
+      "corner1": "0;0;0",
+      "corner2": "0;0;0",
+      "priority": 5,
+      "flags": [
+        {
+          "id": "block-break",
+          "state": "allow"
+        }
+      ]
+    }
+  }
+}
